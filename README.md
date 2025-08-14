@@ -1,5 +1,5 @@
 🇪🇸 **Vortex HUD - Spain RP Edition**  
-Bienvenido a **Vortex HUD**, tu interfaz personalizada para **Spain RP**.  
+Bienvenido a **Vortex HUD**, tu interfaz inspirada en **Spain RP**.  
 Compatible con **ESX** y **QBCore**, requiere **Legacy Fuel** como dependencia.  
 Desarrollado por **TNLI**, listo para mejorar tu experiencia de juego con estilo y funcionalidad.  
 
