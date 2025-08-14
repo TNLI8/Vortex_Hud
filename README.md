@@ -7,3 +7,5 @@ Desarrollado por **TNLI**, listo para mejorar tu experiencia de juego con estilo
 Welcome to **Vortex HUD**, your  interface inspired in **Spain RP**.  
 Compatible with **ESX** and **QBCore**, requires **Legacy Fuel** as a dependency.  
 Developed by **TNLI**, designed to enhance your gameplay with style and functionality.
+
+![Preview](html/assets/img/preview.png)
